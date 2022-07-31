@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export PGPASSWORD='@Brazyl11'
+export PGPASSWORD='<your password goes here>'
 
 database="monstersdb"
 
